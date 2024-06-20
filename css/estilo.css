@@ -1,0 +1,32 @@
+#home {
+	background: #28a745;
+	color: white;
+}
+
+
+body {
+  background-color: ;
+  color: secondary;
+}
+
+.caixa {
+	padding: 80px 0;
+	border-bottom: 1px solid #e5e5e5;
+
+}
+
+h1 {  		
+   color: #FFFFFF;  	
+}  	  
+
+footer p a {
+	margin: 5px 15px;
+}
+
+.titulo {
+    color: #000000;
+}
+
+.lista-itens li {
+    font-size: 17px; 
+
